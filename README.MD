@@ -1,0 +1,2 @@
+# tecnio.me-website
+This is the source for my personal website, [tecnio.me](https://tecnio.me) made with Bootstrap Studio as I absolutely despise website development and wanted to try out BootStrap Studio.
